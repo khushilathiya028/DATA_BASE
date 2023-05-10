@@ -1,0 +1,4 @@
+What is DML Compiler in SQL?
+
+                               A DML (data manipulation language) refers to a computer programming language that allows you to 
+                               add (insert), delete (delete), and alter (update) data in a database.

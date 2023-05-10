@@ -1,0 +1,4 @@
+What is Normalization?
+
+                         database normalization or database normalisation is the process of structuring a relational database in accordance with a series of so-called normal froms in order to reduce data redundancy and improve data integrity.
+                         it was first proposed by british computer scientist edgar f. codd as part of his relational model

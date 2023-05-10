@@ -1,0 +1,5 @@
+What do you understand By Database
+                         
+                         a database is organized collection of structured information, or data, typically stored electronically in a computar system. 
+                         a database is usually controlled by a database management system (DBMS).
+                        

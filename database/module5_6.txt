@@ -1,0 +1,7 @@
+What is DDL Interpreter? 
+
+                                  DDL Interpreter DDL expands to Data Definition Language.
+                                  DDL Interpreter as the name suggests interprets the DDL statements such as schema definition     
+                                  statements like create, delete, 
+                                  The result of this interpretation is a set of a table that contains the meta-data which is stored in the     
+                                  data dictionary.
